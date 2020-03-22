@@ -1,4 +1,4 @@
-# 
+# sudo iptables -L INPUT -v --line-numbers
 114.239.124.0/22
 15.101.0.0/17
 45.143.220.0/23
